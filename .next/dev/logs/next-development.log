@@ -1,0 +1,59 @@
+[00:00:02.311] Server  LOG     ✓ Ready in 1662ms
+[00:00:05.015] Server  ERROR   ⨯ Error: link is a self-closing tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[00:00:05.281] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:05.566] Browser ERROR   uncaughtError: Error: link is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[00:00:05.567] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:34.868] Server  LOG     ✓ Compiled in 602ms
+[00:00:35.619] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:36.017] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:00:36.139] Browser WARN    Image with src "/assets/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:38.854] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:39.773] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9781400069286-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:40.743] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780060850524-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:40.852] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780596805524-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:40.852] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:41.047] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780671027032-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:41.239] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9781501197274-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:41.391] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:43.235] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:49.381] Server  LOG     ✓ Compiled in 58ms
+[00:05:07.870] Server  LOG     ✓ Compiled in 258ms
+[00:05:10.378] Server  LOG     ✓ Compiled in 145ms
+[00:05:13.985] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:14.174] Browser WARN    Image with src "/assets/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:14.174] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:14.174] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780596805524-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:14.174] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780060850524-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:14.174] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:14.174] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780671027032-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:14.174] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9781400069286-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:14.174] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:14.174] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9781501197274-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:14.174] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:14.422] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:08:20.024] Server  LOG     ✓ Compiled in 72ms
+[00:08:22.562] Server  LOG     ✓ Compiled in 135ms
+[00:08:26.354] Server  LOG     ✓ Compiled in 70ms
+[00:09:44.282] Server  LOG     ✓ Compiled in 111ms
+[00:09:48.705] Server  LOG     ✓ Compiled in 46ms
+[00:09:52.940] Server  LOG     ✓ Compiled in 43ms
+[00:09:56.728] Server  LOG     ✓ Compiled in 336ms
+[00:10:02.671] Server  LOG     ✓ Compiled in 44ms
+[00:10:04.492] Server  LOG     ✓ Compiled in 114ms
+[00:10:10.526] Server  LOG     ✓ Compiled in 160ms
+[00:10:19.752] Server  LOG     ✓ Compiled in 94ms
+[00:10:25.733] Server  LOG     ✓ Compiled in 89ms
+[00:10:28.824] Server  LOG     ✓ Compiled in 165ms
+[00:10:32.913] Server  LOG     ✓ Compiled in 96ms
+[00:11:02.810] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:03.106] Browser WARN    Image with src "/assets/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:03.106] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:03.106] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780596805524-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:03.106] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780060850524-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:03.106] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:03.106] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780671027032-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:03.106] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9781400069286-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:03.106] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:03.106] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9781501197274-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:03.106] Browser WARN    Image with src "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:03.106] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
